@@ -1,0 +1,25 @@
+Sep 09 12:14:53.917 ERRO Publishing to npm failed. stderr:
+
+npm notice 
+npm notice 📦  rust-calculator@0.1.0
+npm notice === Tarball Contents === 
+npm notice 317B   package.json      
+npm notice 11.3kB calculator_bg.wasm
+npm notice 99B    calculator.d.ts   
+npm notice 273B   calculator.js     
+npm notice === Tarball Details === 
+npm notice name:          rust-calculator                         
+npm notice version:       0.1.0                                   
+npm notice package size:  5.7 kB                                  
+npm notice unpacked size: 12.0 kB                                 
+npm notice shasum:        ad1848b8154c0c74c985f7ac49042475c5792136
+npm notice integrity:     sha512-lJq+M6HFB+Tr/[...]YQJtD49F/y09Q==
+npm notice total files:   4                                       
+npm notice 
+npm ERR! publish Failed PUT 401
+npm ERR! code E401
+npm ERR! You must be logged in to publish packages. : rust-calculator
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/russelldubrock/.npm/_logs/2018-09-09T19_14_53_892Z-debug.log
+

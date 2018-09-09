@@ -1,0 +1,47 @@
+Arguments: 
+  /Users/russelldubrock/.nvm/versions/node/v8.11.1/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js unlink
+
+PATH: 
+  /Users/russelldubrock/.nvm/versions/node/v8.11.1/bin:/Users/russelldubrock/.cargo/bin:/Users/russelldubrock/bin:/usr/local/bin:/usr/local/sbin:/Users/russelldubrock/.cargo/bin:/Users/russelldubrock/bin:/usr/local/bin:/usr/local/sbin:/Users/russelldubrock/.cargo/bin:/Users/russelldubrock/.cargo/bin:/Users/russelldubrock/bin:/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  8.11.1
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  {
+    "name": "calculator",
+    "collaborators": [
+      "Russell DuBrock <russell.dubrock@gmail.com>"
+    ],
+    "description": null,
+    "version": "0.1.0",
+    "license": null,
+    "repository": null,
+    "files": [
+      "calculator_bg.wasm",
+      "calculator.d.ts"
+    ],
+    "main": "calculator.js",
+    "types": "calculator.d.ts"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: No registered module found called "calculator".
+      at new MessageError (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:186:110)
+      at Object.<anonymous> (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:87795:15)
+      at Generator.next (<anonymous>)
+      at step (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:98:30)
+      at /usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:109:13
+      at <anonymous>

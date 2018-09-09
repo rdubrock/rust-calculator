@@ -1,0 +1,16 @@
+{
+  "name": "rust-calculator",
+  "collaborators": [
+    "Russell DuBrock <russell.dubrock@gmail.com>"
+  ],
+  "description": null,
+  "version": "0.1.0",
+  "license": null,
+  "repository": null,
+  "files": [
+    "calculator_bg.wasm",
+    "calculator.d.ts"
+  ],
+  "main": "calculator.js",
+  "types": "calculator.d.ts"
+}
