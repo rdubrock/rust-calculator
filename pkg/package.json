@@ -4,7 +4,7 @@
     "Russell DuBrock <russell.dubrock@gmail.com>"
   ],
   "description": null,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": null,
   "repository": "https://github.com/rdubrock/rust-calculator",
   "files": [
